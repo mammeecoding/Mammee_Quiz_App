@@ -1,8 +1,14 @@
-# React + Vite
+# Mohammed_Quiz_App
+ Mohammed_Quiz_App IS  a quiz application that uses the open trivia database to fetch data and enables the user to take a quick quiz from a a category that he chooses,amount of questions he want and difficulty of the test.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+. take quizes easily 
+. Ability to choose any category that is in the list
+. Ability to minimise or maximize the amount of question
+. Adjustable level of difficulty
+# Tools used
+. React: Javascript library for building user interfaces
+. vite: fast build tool for moderen web apps
+. open trivia database Api: api for accessing the questions 
+# Usage
+.the users can take a really quick quiz anty time anywhere and any category they want
