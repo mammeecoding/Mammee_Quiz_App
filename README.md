@@ -7,8 +7,10 @@
 . Ability to minimise or maximize the amount of question
 . Adjustable level of difficulty
 # Tools used
-. React: Javascript library for building user interfaces
-. vite: fast build tool for moderen web apps
+. Figma: a designing platform to design websites and application 
+. HTML: for building the structure of the website
+. CSS: for editing and colorifying the website
+. Javascript: a web building programming language for user interfaces and functionality of the website
 . open trivia database Api: api for accessing the questions 
 # Usage
-.the users can take a really quick quiz anty time anywhere and any category they want
+.the users can take a really quick quiz any time anywhere and any category they want
